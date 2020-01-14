@@ -1,0 +1,26 @@
+{
+  "name": "tp-typescript",
+  "version": "1.0.0",
+  "description": "Ce TP a pour but de parcourir les fonctionnalités de base de TypeScript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DORIAN-AQ/tp-typescript.git"
+  },
+  "keywords": [
+    "tp",
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DORIAN-AQ/tp-typescript/issues"
+  },
+  "homepage": "https://github.com/DORIAN-AQ/tp-typescript#readme",
+  "devDependencies": {
+    "ts-node": "^8.6.2"
+  }
+}

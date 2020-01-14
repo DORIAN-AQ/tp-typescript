@@ -56,9 +56,44 @@ tsc ./tp-1/exo4.ts
 
 ### Type generique
 
-Corriger le programme
+Corriger le programme.
 
 Pour vérifier le bon fonctionnement :
 ```
 tsc ./tp-1/exo5.ts
 ```
+
+## TP 2 : Class
+
+Ce second TP a pour objectif de présenter les nouveautées sur les class ainsi que le système d'interface
+
+### Création d'une interface
+
+Créer une interface afin de pouvoir typer efficacement les héros
+
+Pour vérifier le bon fonctionnement :
+```
+tsc ./tp-2/exo1.ts
+```
+
+### Extend
+
+Créer une class parente aux Heros afin d'introduire une nouvelle class
+
+Pour vérifier le bon fonctionnement :
+```
+tsc ./tp-2/exo2.ts
+```
+
+### Algo (Simple)
+
+En ajoutant plusieurs produits à mon panier, je voudrais obtenir un panier total de `25`
+
+Pour vérifier le bon fonctionnement :
+```
+tsc ./tp-2/exo3.ts
+```
+
+## Decorator
+
+Not ready yet
