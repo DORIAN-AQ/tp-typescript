@@ -45,9 +45,18 @@ Pour vérifier le bon fonctionnement :
 tsc ./tp-1/exo3.ts
 ```
 
+### Type array
+
+Compléter la fonction displayArray pour afficher l'intégralité de l'array
+
+Pour vérifier le bon fonctionnement :
+```
+tsc ./tp-1/exo4.ts
+```
+
 ### Type generique
 
-Exercice pour typer les différentes variables, vous allez devoir typer toutes les variables correctement.
+Corriger le programme
 
 Pour vérifier le bon fonctionnement :
 ```
