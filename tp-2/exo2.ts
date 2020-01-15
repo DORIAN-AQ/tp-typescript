@@ -57,13 +57,13 @@ class Paladin {
 
 
 // Changer le type "Berserk|Paladin" par une interface
-function presentMyHero(hero: Berserk|Paladin): void {
+function presentMyHero1(hero: Berserk|Paladin): void {
     hero.presentMyself();
 }
 
 const heroBerserk = new Berserk(true);
 const heroPaladin = new Paladin(false);
 
-presentMyHero(heroBerserk);
+presentMyHero1(heroBerserk);
 console.log('==============================');
-presentMyHero(heroPaladin);
+presentMyHero1(heroPaladin);
