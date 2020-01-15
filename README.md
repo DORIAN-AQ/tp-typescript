@@ -12,7 +12,7 @@ npm install -g typescript
 
 ## TP 1 : Type
 
-Ce premier TP a pour objectif d'introduire le système de typage. Sur lénsemble des TPs, on notera les erreurs que l'IDE nous remonte. 
+Ce premier TP a pour objectif d'introduire le système de typage. Sur l'ensemble des TPs, on notera les erreurs que l'IDE nous remonte. 
 
 ### Type de base
 
@@ -96,6 +96,12 @@ Pour vérifier le bon fonctionnement :
 ts-node ./tp-2/exo3.ts
 ```
 
+## 
+
 ## Decorator
 
-Not ready yet
+### Attribute decorator
+
+### Method decorator
+
+### Class decorator

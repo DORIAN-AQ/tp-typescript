@@ -4,5 +4,3 @@ dist/*
 node_modules
 node_modules/*
 
-tp-2/exo1-fix.ts
-tp-2/exo2-fix.ts
