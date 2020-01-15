@@ -7,6 +7,7 @@ Ce TP a pour but de parcourir les fonctionnalités de base de TypeScript
 Ts-node est un outil de développement qui nous permettra de lancer un script TS sans passer par un build
 ```
 npm install -g ts-node
+npm install -g typescript
 ```
 
 ## TP 1 : Type
@@ -19,7 +20,7 @@ Exercice pour typer les différentes variables, vous allez devoir typer toutes l
 
 Pour vérifier le bon fonctionnement :
 ```
-tsc ./tp-1/exo1.ts
+ts-node ./tp-1/exo1.ts
 ```
 
 ### Type enum
@@ -34,7 +35,7 @@ Dans cet exercice, je voudrais la sortie suivante :
 
 Pour vérifier le bon fonctionnement :
 ```
-tsc ./tp-1/exo2.ts
+ts-node ./tp-1/exo2.ts
 ```
 
 ### Type retour de fonction
@@ -43,7 +44,7 @@ Dans cet exercire, `exo4.ts` ne fonctionne pas il le devrait, veuillez le corrig
 
 Pour vérifier le bon fonctionnement :
 ```
-tsc ./tp-1/exo3.ts
+ts-node ./tp-1/exo3.ts
 ```
 
 ### Type array
@@ -52,7 +53,7 @@ Compléter la fonction displayArray pour afficher l'intégralité de l'array
 
 Pour vérifier le bon fonctionnement :
 ```
-tsc ./tp-1/exo4.ts
+ts-node ./tp-1/exo4.ts
 ```
 
 ### Type generique
@@ -61,7 +62,7 @@ Corriger le programme.
 
 Pour vérifier le bon fonctionnement :
 ```
-tsc ./tp-1/exo5.ts
+ts-node ./tp-1/exo5.ts
 ```
 
 ## TP 2 : Class
@@ -74,7 +75,7 @@ Créer une interface afin de pouvoir typer efficacement les héros
 
 Pour vérifier le bon fonctionnement :
 ```
-tsc ./tp-2/exo1.ts
+ts-node ./tp-2/exo1.ts
 ```
 
 ### Extend
@@ -83,7 +84,7 @@ Créer une class parente aux Heros afin d'introduire une nouvelle class
 
 Pour vérifier le bon fonctionnement :
 ```
-tsc ./tp-2/exo2.ts
+ts-node ./tp-2/exo2.ts
 ```
 
 ### Algo (Simple)
@@ -92,7 +93,7 @@ En ajoutant plusieurs produits à mon panier, je voudrais obtenir un panier tota
 
 Pour vérifier le bon fonctionnement :
 ```
-tsc ./tp-2/exo3.ts
+ts-node ./tp-2/exo3.ts
 ```
 
 ## Decorator
