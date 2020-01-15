@@ -40,7 +40,7 @@ ts-node ./tp-1/exo2.ts
 
 ### Type retour de fonction
 
-Dans cet exercire, `exo3.ts` ne fonctionne pas il le devrait, veuillez le corriger.
+Dans cet exercice, `exo3.ts` ne fonctionne pas il le devrait, veuillez le corriger.
 
 Pour vérifier le bon fonctionnement :
 ```
