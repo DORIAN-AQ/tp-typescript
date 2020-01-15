@@ -1,4 +1,4 @@
-function waitAndReturnDouble(value: number) {
+function waitAndReturnDouble(value: number) { // Rajouter le type de retour de cette fonction pour corriger
     return new Promise((resolve): void => {
         setTimeout(() => {
             resolve(value * 2);
