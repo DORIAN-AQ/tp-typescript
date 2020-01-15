@@ -6,6 +6,7 @@ Ce TP a pour but de parcourir les fonctionnalités de base de TypeScript
 
 Ts-node est un outil de développement qui nous permettra de lancer un script TS sans passer par un build
 ```
+npm install -g ts-node
 ```
 
 ## TP 1 : Type
