@@ -49,7 +49,7 @@ ts-node ./tp-1/exo3.ts
 
 ### Type array
 
-Compléter la fonction displayArray pour afficher l'intégralité de l'array
+Compléter la fonction displayArray pour afficher l'intégralité de l'array en utilisant map ou forEach.
 
 Pour vérifier le bon fonctionnement :
 ```
@@ -58,7 +58,7 @@ ts-node ./tp-1/exo4.ts
 
 ### Type generique
 
-Corriger le programme.
+Corriger le programme en typant le retour de la fonction.
 
 Pour vérifier le bon fonctionnement :
 ```
