@@ -96,9 +96,39 @@ Pour vérifier le bon fonctionnement :
 ts-node ./tp-2/exo3.ts
 ```
 
-## 
+## Rest / Spread / Destructuration
+
+Ici, on apprendra à utiliser les opérateurs Rest et Spread. Puis une petite overview des principes de destructuration
+_Utiliser le dossier `tp-3` pour valider ce cours._
+
+### Rest
+
+Des fonctions utilisant le `Rest` operator attendent d'être appelé par vos soins.
+
+Pour vérifier le bon fonctionnement :
+```
+ts-node ./tp-3/exo1.ts
+```
+
+### Spread
+
+Dans cet exercice, vous allez devoir utiliser le `Rest` operator afin de pouvoir appelé correctement les fonctions donné à votre disposition.
+
+Pour vérifier le bon fonctionnement :
+```
+ts-node ./tp-3/exo2.ts
+```
 
 ## Decorator
+
+Ici, se sont les exercices `exo3` et `exo4` qu'il faudra compléter.
+
+Pour vérifier le bon fonctionnement :
+```
+ts-node ./tp-3/exo3.ts
+ts-node ./tp-3/exo4.ts
+```
+
 
 ### Attribute decorator
 
