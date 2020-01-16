@@ -119,7 +119,7 @@ Pour vérifier le bon fonctionnement :
 ts-node ./tp-3/exo2.ts
 ```
 
-## Decorator
+### Destructuration
 
 Ici, se sont les exercices `exo3` et `exo4` qu'il faudra compléter.
 
@@ -129,9 +129,48 @@ ts-node ./tp-3/exo3.ts
 ts-node ./tp-3/exo4.ts
 ```
 
+## Decorator
 
-### Attribute decorator
+Dans ce TP, on passera en revu les décorateurs en TypeScript. Les décorateurs sont utiliser en Angular à tous les niveaux.
+_Utiliser le dossier `tp-4` pour valider ce cours._
+
+### Rappel sur les types génériques
+
+Ici, on verra les différences entre les déclarations de fonctions génériques et les fonctions typées. Les types génériques sont très utilisés dans les décorateurs car un décorateur viendra (décorer) compléter/ajouter des fonctionnalitées à nos propriétés, méthodes, fonctions...
+
+Pour vérifier le bon fonctionnement :
+```
+ts-node ./tp-4/exo0.ts
+```
+
+### Attribute / Propriété decorator
+
+
+Pour vérifier le bon fonctionnement :
+```
+ts-node ./tp-4/exo1.ts
+```
 
 ### Method decorator
 
+
+Pour vérifier le bon fonctionnement :
+```
+ts-node ./tp-4/exo2.ts
+```
+
 ### Class decorator
+
+
+Pour vérifier le bon fonctionnement :
+```
+ts-node ./tp-4/exo3.ts
+```
+
+### Decorator with parameters
+
+
+Pour vérifier le bon fonctionnement :
+```
+ts-node ./tp-4/exo4.ts
+```
